@@ -1,0 +1,16 @@
+<?php
+
+//DESIGN PATTERN
+
+//DENPENDENCY INJECTION (1 trong so DESIGN PATTERN)
+
+
+//GIT + GITHUB/GITLAB/... + SOURCE TREE
+//DOCKER
+
+
+
+
+
+
+

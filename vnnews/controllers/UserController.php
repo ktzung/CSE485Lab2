@@ -1,8 +1,6 @@
 <?php
 class UserController{
-    public function index(){
 
-    }
 
     public function create(){
         //Hien thi FORM them
